@@ -1,4 +1,4 @@
-# The code aims to convert a pseudo code given by this user to an auto-generated C code
+# The code aims to convert a pseudo code given by the user to a working C code
 * Input:
  The algorithm is given by the user in a predefined format.
 * Output:
