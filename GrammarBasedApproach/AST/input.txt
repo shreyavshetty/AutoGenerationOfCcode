@@ -1,0 +1,10 @@
+begin 
+if a > 0
+then
+if b > 0
+then 
+b = 0
+endif
+endif
+end
+

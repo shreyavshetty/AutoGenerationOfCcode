@@ -1,0 +1,1 @@
+begin assign ( a int ) assign ( b int ) assign ( c int )  assign a to 10 assign b to 15 while a+b > 20 then if b > 15 then c = a + b endif endwhile print int , c myfunction(a int)  start_procedure myfunction(a int) print int , c  end_procedure with return type int end
